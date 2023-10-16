@@ -1,5 +1,5 @@
 # SizePleaze
-clothes size recommend project - SizePleaze
+온라인 쇼핑몰 의류 사이즈 추천 프로그램
 
 21610880 정다윈입니다.
 
