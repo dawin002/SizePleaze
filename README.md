@@ -1,6 +1,8 @@
 # SizePleaze
 온라인 쇼핑몰 의류 사이즈 추천 프로그램
 
+<img width="586" alt="image" src="https://github.com/dawin002/SizePleaze/assets/77649724/7b42016e-2bd3-4398-8df4-16c53c4ae431">
+
 영남대학교 생명과학과 21610880 정다윈입니다.
 
 제가 구현한 프로그램은 판매자가 등록한 제품의 사이즈와 소비자가 등록한
