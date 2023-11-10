@@ -296,7 +296,8 @@
 
 ### 프로그램 실행 방법
 
-아래 replit(온라인 IDE) 링크를 통해 프로그램을 실행할 수 있습니다.
+아래 replit(온라인 IDE) 링크를 통해 프로그램을 실행할 수 있습니다. 
+(실행을 위해서 replit 계정이 필요합니다...)
 
 https://replit.com/join/uhphjfmfvq-dawin002
 
