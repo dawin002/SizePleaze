@@ -8,8 +8,8 @@
 1. [Summary](#1-Summary)
 2. [프로젝트 목표](#2-프로젝트-목표)
 3. [주요 기능 - All users](#3-주요-기능---All-users)
-4. [주요 기능 - Customer](#-4-주요-기능---Customer)
-5. [주요 기능 - Shop manager](#-5-주요-기능---Shop-manager)
+4. [주요 기능 - Customer](#4-주요-기능---Customer)
+5. [주요 기능 - Shop manager](#5-주요-기능---Shop-manager)
 
 
 ## 1. Summary
@@ -181,9 +181,13 @@
 
 <img width="400" alt="image" src="https://github.com/dawin002/SizePleaze/assets/77649724/72d4e54f-b4e4-4213-b666-933ca56457e1">
 
+- 판매자가 쇼핑몰을 등록하는 기능입니다.
+
 ### Delete shop (쇼핑몰 삭제)
 
 <img width="400" alt="image" src="https://github.com/dawin002/SizePleaze/assets/77649724/ad23e7c4-8a31-4528-9a69-9bd2002405f9">
+
+- 판매자가 쇼핑몰을 삭제하는 기능입니다.
 
 ### Manage product (제품 관리)
 
@@ -196,14 +200,21 @@
 <img width="400" alt="image" src="https://github.com/dawin002/SizePleaze/assets/77649724/2a703043-0928-4dd2-a70f-a8b1b87837f2">
 <img width="400" alt="image" src="https://github.com/dawin002/SizePleaze/assets/77649724/2b569b1f-48f0-45b2-9377-9c7fae338ebd">
 
+- 판매자가 제품을 등록하는 기능입니다.
+
 ### Delete product (제품 삭제)
 
 <img width="400" alt="image" src="https://github.com/dawin002/SizePleaze/assets/77649724/5d7bfb01-6d6e-40fb-a5a0-e21af9242b50">
+
+- 판매자가 제품을 삭제하는 기능입니다.
 
 ### Manage order (주문 관리)
 
 <img width="400" alt="image" src="https://github.com/dawin002/SizePleaze/assets/77649724/32a8cf3f-d851-435a-8d00-d86e8e0325f6">
 
+- 판매자가 
+
+## 6. 프로그램 실행 방법
 
 데이터베이스는 프로그램 내부에 코드로 대체하여 프로그램이 종료되면 다시 초기값으로 바뀌는 것을 참고해주시기 바랍니다.
 
