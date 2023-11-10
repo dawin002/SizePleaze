@@ -5,11 +5,11 @@
 
 ## 0. 순서
 
-1. [Summary](#1.-Summary)
-2. [프로젝트 목표](#2.-프로젝트-목표)
-3. [주요 기능 - All users](#3.-주요-기능---All-users)
-4. [주요 기능 - Customer](#-4.-주요-기능---Customer)
-5. [주요 기능 - Shop manager](#-5.-주요-기능---Shop-manager)
+1. [Summary](#1-Summary)
+2. [프로젝트 목표](#2-프로젝트-목표)
+3. [주요 기능 - All users](#3-주요-기능---All-users)
+4. [주요 기능 - Customer](#-4-주요-기능---Customer)
+5. [주요 기능 - Shop manager](#-5-주요-기능---Shop-manager)
 
 
 ## 1. Summary
